@@ -1,6 +1,6 @@
 # demo
 learn more about Git and GIthub
 <br/>
-Thats amazing Author - Kunal
+wow amazing Author - Kunal
 <br/>
 updated again
